@@ -1,0 +1,194 @@
+kabul
+tirana
+berlin
+andorra la vieja
+luanda
+saint johns
+riad
+argel
+buenos Aires
+erevan
+camberra
+viena
+baku
+nasau
+daca
+bridgetown
+manama
+bruselas
+belmopan
+porto novo y cotonu
+minsk
+naipyido
+sucre
+sarajevo
+gaborone
+brasilia
+bandar seri begawan
+sofia
+uagadugu
+gitega
+timbu
+praia
+nom pen
+yaunde
+ottawa
+doha
+yamena
+santiago de chile
+pekin
+nicosia
+ciudad del vaticano
+bogota
+moroni
+pionyang
+seul
+yamusukro
+san jose
+zagreb
+la habana
+copenhague
+roseau
+quito
+el cairo
+san salvador
+abu dabi
+asmara
+bratislava
+liubliana
+madrid
+washington
+tallin
+adis abeba
+manila
+helsinki
+suva
+paris
+libreville
+banjul
+tiflis
+acra
+saint george
+atenas
+ciudad de guatemala
+georgetown
+conakri
+bisau
+malabo
+puerto principe
+tegucigalpa
+budapest
+nueva delhi
+yakarta
+bagdad
+teheran
+dublin
+reikiavik
+majuro
+honiara
+jerusalen
+roma
+kingston
+tokio
+aman
+astana
+nairobi
+biskek
+tarawa
+kuwait
+vientian
+maseru
+riga
+beirut
+monrovia
+tripoli
+vaduz
+vilna
+luxemburgo
+skopie
+antananarivo
+kuala lumpur
+lilongue
+male
+bamako
+la valeta
+rabat
+port louis
+nuakchot
+ciudad de mexico
+palikir
+chisinau
+monaco
+ulan bator
+podgorica
+maputo
+windhoek
+yaren
+katmandu
+managua
+niamey
+abuya
+oslo
+wellington
+mascate
+amsterdam
+islamabad
+melekeok
+panama
+port moresby
+asuncion
+lima
+varsovia
+lisboa
+londres
+bangui
+praga
+brazzaville
+kinsasa
+santo domingo
+ciudad del cabo
+kigali
+bucarest
+moscu
+apia
+basseterre
+san marino
+kingstown
+castries
+santo tome
+dakar
+belgrado
+victoria
+freetown
+singapur
+damasco
+mogadiscio
+colombo
+babane y lobamba
+jartum
+yuba
+estocolmo
+berna
+paramaribo
+bangkok
+dodoma
+dusambe
+dili
+lome
+nukualofa
+puerto espana
+tunez
+asjabad
+ankara
+fongafale
+kiev
+kampala
+montevideo
+taskent
+port vila
+caracas
+hanoi
+sana
+yibuti
+lusaka
+harare
